@@ -1,9 +1,9 @@
 # Self-paced Coding Curriculum (full-stack Rails)
-This is a self-paced coding curriculum I created to teach myself how to code. Hope it helps you and others in their coding journey. Best wishes! 
+This is a self-paced coding curriculum I created to teach myself how to code. Hope it helps you and others in their coding journey. Best wishes!
 
 ## Part 1: HTML/CSS Basics
 
-* [HTML/CSS Tutorial](https://www.codecademy.com/tracks/web)
+* [HTML/CSS Tutorial](https://www.codecademy.com/learn/learn-html-css)
 *  [HTML forms](http://www.w3schools.com/html/html_forms.asp)
 Note: Do the “Try it yourself” exercises in each section.
 * [Layout basics (READ!)](http://learnlayout.com/no-layout.html)
@@ -19,7 +19,7 @@ Note: Do the “Try it yourself” exercises in each section.
 Note: Do the “Try it yourself” exercises in each section.
 
 ## Part 3: JavaScript Basics
-* [JavaScript Tutorial](https://www.codecademy.com/tracks/javascript)
+* [JavaScript Tutorial](https://www.codecademy.com/learn/learn-javascript)
 * [Intermediate JavaScript Tutorial](https://www.codecademy.com/en/tracks/teachyourself)
 * [JavaScript Exercises (Do 7 from these sections: Functions, Recursions, Conditionals, and HTML DOM)](http://www.w3resource.com/javascript-exercises/)
 
