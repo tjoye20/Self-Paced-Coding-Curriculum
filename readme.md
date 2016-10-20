@@ -18,6 +18,10 @@ Note: Do the “Try it yourself” exercises in each section.
 * [Media Queries (READ)](http://www.w3schools.com/cssref/css3_pr_mediaquery.asp)
 Note: Do the “Try it yourself” exercises in each section.
 
+## Part 2.1: Bootstrap Basics
+* [Quick Intro (Read & walkthrough)](https://medium.com/@tjoye20/bootstrap-tutorial-quick-introduction-21c101910ab5#.kjvv9c97b)
+* [Tutorial (code along)](http://www.w3schools.com/bootstrap/bootstrap_theme_me.asp)
+
 ## Part 3: JavaScript Basics
 * [JavaScript Tutorial](https://www.codecademy.com/learn/learn-javascript)
 * [Intermediate JavaScript Tutorial](https://www.codecademy.com/en/tracks/teachyourself)
