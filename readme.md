@@ -18,11 +18,11 @@ Note: Do the “Try it yourself” exercises in each section.
 * [Media Queries (READ)](http://www.w3schools.com/cssref/css3_pr_mediaquery.asp)
 Note: Do the “Try it yourself” exercises in each section.
 
-## Part 2.1: Bootstrap Basics
+## Part 3: Bootstrap Basics
 * [Quick Intro (Read & walkthrough)](https://medium.com/@tjoye20/bootstrap-tutorial-quick-introduction-21c101910ab5#.kjvv9c97b)
 * [Tutorial (code along)](http://www.w3schools.com/bootstrap/bootstrap_theme_me.asp)
 
-## Part 3: JavaScript Basics
+## Part 4: JavaScript Basics
 * [JavaScript Tutorial](https://www.codecademy.com/learn/learn-javascript)
 * [Intermediate JavaScript Tutorial](https://www.codecademy.com/en/tracks/teachyourself)
 * [JavaScript Exercises (Do 7 from these sections: Functions, Recursions, Conditionals, and HTML DOM)](http://www.w3resource.com/javascript-exercises/)
@@ -34,29 +34,37 @@ Tip: Read solution first. Understand it. Then code it till you can do it without
 
 Note: Google/StackOverflow anything you’re not familiar with.
 
-## Part 4: jQuery Basics
+## Part 5: jQuery Basics
 * [jQuery Tutorial](https://www.codecademy.com/en/tracks/jquery)
 * [jQuery Exercises (Do 7 from each section)](http://www.w3resource.com/jquery-exercises/)
 * [JQuery Cheat Sheet](https://oscarotero.com/jquery/)
 
-## Part 5: Command Line & Git Basics
+## Part 6: Command Line & Git Basics
 * [Command Line (Unit 1 & 2)](https://www.codecademy.com/learn/learn-the-command-line)
 * [Git](https://www.codecademy.com/learn/learn-git)
 
-### End of front-end/web development fundamentals.
+## Part 7: EmberJS Basics (DO ALL)
+* [Tutorial 1](https://www.twilio.com/blog/2015/08/getting-started-with-ember-js-2-0-using-ember-cli.html)
+* [Tutorial 2](https://www.twilio.com/blog/2015/09/using-ember-data-with-firebase.html)
+* [Tutorial 3](https://www.twilio.com/blog/2015/09/creating-web-components-in-emberjs.html)
+* [Tutorial 4](https://www.danielgynn.com/using-ember-data-with-firebase/)
+* [Tutorial 5](https://medium.com/rails-ember-beyond/building-a-todo-app-using-ember-js-firebase-ba677e81e561#.4cw31vi4a)
 
-## Part 6: SQL basics
+
+### End of front-end/web development fundamentals. Build a couple Ember Apps for your portfolio.
+
+## Part 8: SQL basics
 * [SQL Tutorial](https://www.codecademy.com/learn/learn-sql)
 * [Exercises (Do 5 from each)](http://www.w3resource.com/sqlite-exercises/)
 
-## Part 7: Ruby basics
+## Part 9: Ruby basics
 * [Ruby Tutorial](https://www.codecademy.com/learn/ruby)
 * [Exercises (Do 1-19)](http://prepwork.appacademy.io/coding-test-1/practice-problems/)
 
 Tip: Read solution first. Understand it. Then code it till you can do it without looking.
 * [OOP in Ruby (Must Read!)](http://zetcode.com/lang/rubytutorial/oop/)
 
-## Part 8: Sinatra Basics(DO ALL)
+## Part 10: Sinatra Basics(DO ALL)
 Note: Do this Sinatra tutorial first, to make Rails easier to pick up.
 * [Sinatra tutorial Pt. 1](http://code.tutsplus.com/tutorials/singing-with-sinatra--net-18965)
 * [Sinatra tutorial Pt. 2](http://code.tutsplus.com/tutorials/singing-with-sinatra-the-recall-app--net-19128)
@@ -65,7 +73,7 @@ Note: Do this Sinatra tutorial first, to make Rails easier to pick up.
 * [Official Sinatra Guide](http://www.sinatrarb.com/intro)
 * [Sinatra Template I use](https://github.com/tjoye20/sinatra_template)
 
-## Part 9: Ruby on Rails Basics
+## Part 11: Ruby on Rails Basics
 * [Rails Tutorial](https://www.codecademy.com/learn/learn-rails)
 * [Intermediate Rails tutorial](https://www.codecademy.com/learn/rails-auth)
 
@@ -78,12 +86,12 @@ Extra Reference:
 * [Standard controller actions](https://www.codecademy.com/articles/standard-controller-actions)
 * [Extra Rails Tutorial](https://www.railstutorial.org/book/beginning)
 
-## Part 10: Testing Ruby with Rspec
+## Part 12: Testing Ruby with Rspec
 * [RSpec Intro](http://blog.teamtreehouse.com/an-introduction-to-rspec)
 * [RSpec tutorial](https://semaphoreci.com/community/series/learn-rspec)
 * [RSpec conventions](http://betterspecs.org/)
 
-## Part 11: Interview Prep
+## Part 13: Interview Prep
 * [Rails Developer Interview Questions](https://github.com/afeld/rails_interview_questions)
 * [Tech Interview Cheat-sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
 * [Coding Interview Tips](https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685#.3zmn76gx4)
