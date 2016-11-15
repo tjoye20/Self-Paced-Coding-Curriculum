@@ -1,4 +1,4 @@
-# Self-paced Coding Curriculum (full-stack Rails)
+# Self-paced Coding Curriculum (full-stack)
 This is a self-paced coding curriculum I created to teach myself how to code. Hope it helps you and others in their coding journey. Best wishes!
 
 ## Part 1: HTML/CSS Basics
@@ -20,7 +20,8 @@ Note: Do the “Try it yourself” exercises in each section.
 
 ## Part 3: Bootstrap Basics
 * [Quick Intro (Read & walkthrough)](https://medium.com/@tjoye20/bootstrap-tutorial-quick-introduction-21c101910ab5#.kjvv9c97b)
-* [Tutorial (code along)](http://www.w3schools.com/bootstrap/bootstrap_theme_me.asp)
+* [Tutorial 1 (code along)](http://www.w3schools.com/bootstrap/bootstrap_theme_me.asp)
+* [Tutorial 2 (code along)](http://www.w3schools.com/bootstrap/bootstrap_theme_company.asp)
 
 ## Part 4: JavaScript Basics
 * [JavaScript Tutorial](https://www.codecademy.com/learn/learn-javascript)
@@ -43,28 +44,21 @@ Note: Google/StackOverflow anything you’re not familiar with.
 * [Command Line (Unit 1 & 2)](https://www.codecademy.com/learn/learn-the-command-line)
 * [Git](https://www.codecademy.com/learn/learn-git)
 
-## Part 7: EmberJS Basics (DO ALL)
-* [Tutorial 1](https://www.twilio.com/blog/2015/08/getting-started-with-ember-js-2-0-using-ember-cli.html)
-* [Tutorial 2](https://www.twilio.com/blog/2015/09/using-ember-data-with-firebase.html)
-* [Tutorial 3](https://www.twilio.com/blog/2015/09/creating-web-components-in-emberjs.html)
-* [Tutorial 4](https://www.danielgynn.com/using-ember-data-with-firebase/)
-* [Tutorial 5](https://medium.com/rails-ember-beyond/building-a-todo-app-using-ember-js-firebase-ba677e81e561#.4cw31vi4a)
 
+### End of front-end/web development fundamentals.
 
-### End of front-end/web development fundamentals. Build a couple Ember Apps for your portfolio.
-
-## Part 8: SQL basics
+## Part 7: SQL basics
 * [SQL Tutorial](https://www.codecademy.com/learn/learn-sql)
 * [Exercises (Do 5 from each)](http://www.w3resource.com/sqlite-exercises/)
 
-## Part 9: Ruby basics
+## Part 8: Ruby basics
 * [Ruby Tutorial](https://www.codecademy.com/learn/ruby)
 * [Exercises (Do 1-19)](http://prepwork.appacademy.io/coding-test-1/practice-problems/)
 
 Tip: Read solution first. Understand it. Then code it till you can do it without looking.
 * [OOP in Ruby (Must Read!)](http://zetcode.com/lang/rubytutorial/oop/)
 
-## Part 10: Sinatra Basics(DO ALL)
+## Part 9: Sinatra Basics(DO ALL)
 Note: Do this Sinatra tutorial first, to make Rails easier to pick up.
 * [Sinatra tutorial Pt. 1](http://code.tutsplus.com/tutorials/singing-with-sinatra--net-18965)
 * [Sinatra tutorial Pt. 2](http://code.tutsplus.com/tutorials/singing-with-sinatra-the-recall-app--net-19128)
@@ -73,7 +67,7 @@ Note: Do this Sinatra tutorial first, to make Rails easier to pick up.
 * [Official Sinatra Guide](http://www.sinatrarb.com/intro)
 * [Sinatra Template I use](https://github.com/tjoye20/sinatra_template)
 
-## Part 11: Ruby on Rails Basics
+## Part 10: Ruby on Rails Basics
 * [Rails Tutorial](https://www.codecademy.com/learn/learn-rails)
 * [Intermediate Rails tutorial](https://www.codecademy.com/learn/rails-auth)
 
@@ -86,12 +80,12 @@ Extra Reference:
 * [Standard controller actions](https://www.codecademy.com/articles/standard-controller-actions)
 * [Extra Rails Tutorial](https://www.railstutorial.org/book/beginning)
 
-## Part 12: Testing Ruby with Rspec
+## Part 11: Testing Ruby with Rspec
 * [RSpec Intro](http://blog.teamtreehouse.com/an-introduction-to-rspec)
 * [RSpec tutorial](https://semaphoreci.com/community/series/learn-rspec)
 * [RSpec conventions](http://betterspecs.org/)
 
-## Part 13: Interview Prep
+## Part 12: Interview Prep
 * [Rails Developer Interview Questions](https://github.com/afeld/rails_interview_questions)
 * [Tech Interview Cheat-sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
 * [Coding Interview Tips](https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685#.3zmn76gx4)
